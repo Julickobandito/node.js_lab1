@@ -59,4 +59,4 @@ Some-module.js
 
 main.js
  const someModule = require(‘./some-module.js’);         //імпорт num з локального модуля
- console.log(someModule);       //12
+ console.log(someModule);       //12 
