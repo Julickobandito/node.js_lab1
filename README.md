@@ -56,6 +56,7 @@ util – містить утиліти, корисні для програміс
 Some-module.js
  const num = 12;
  module.exports = {num};  //експорт змінної з поточного модуля
+
 main.js
  const someModule = require(‘./some-module.js’);         //імпорт num з локального модуля
  console.log(someModule);       //12
