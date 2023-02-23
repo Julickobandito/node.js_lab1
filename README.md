@@ -28,8 +28,9 @@
 5) NaN (Not a Number)
 6) BigInt (для великих чисел)
 7) String (“To be or not to be?”)
-8) Object ( let pet = {type: “cat”, age: 2} );
-9) Function  
+8) Object ( let pet = {type: “cat”, age: 2} )
+9) Array ([1,2,5])
+10) Function  
         function square(number) {
            return number * number;
         }
