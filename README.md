@@ -7,6 +7,13 @@
 - виконали n задач Easy/Medium на codewars.com та leetcode.com, використовуючи Node.js
 - відповіли на контрольні запитання
 
+ПОСТАНОВКА ЗАДАЧ
+№1: https://www.codewars.com/kata/513e08acc600c94f01000001/train/javascript 
+№2: https://www.codewars.com/kata/514a024011ea4fb54200004b/train/javascript
+№3: https://leetcode.com/problems/valid-sudoku/
+№4: https://www.codewars.com/kata/576b93db1129fcf2200001e6/train/javascript
+№5: https://www.codewars.com/kata/57eae65a4321032ce000002d/train
+
 КОНТРОЛЬНІ ПИТАННЯ
 1. Чи є різниця між виконанням Javascript в браузері та в середовищі Node.js?
 Що стосується загальної продуктивності фронту після завантаження, різниці немає. І node.js, і більш класичні HTTP -сервери обслуговують необхідні файли, а решта залежить від клієнта, тому загальна продуктивність після завантаження залежить від браузера. 
